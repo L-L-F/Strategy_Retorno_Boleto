@@ -1,0 +1,6 @@
+com/laerton/boletos_bancarios/Principal.class
+com/laerton/boletos_bancarios/strategy/LeituraRetorno.class
+com/laerton/boletos_bancarios/strategy/ProcessarBoletos.class
+com/laerton/boletos_bancarios/strategy/LeituraRetornoBancoBrasil.class
+com/laerton/boletos_bancarios/strategy/LeituraRetornoBancoBradesco.class
+com/laerton/boletos_bancarios/entities/Boleto.class
